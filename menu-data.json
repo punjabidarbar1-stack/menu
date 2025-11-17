@@ -1,0 +1,1089 @@
+{
+  "english": {
+    "SALAD & RAITA": [
+      {
+        "name": "Green Salad",
+        "description": "Fresh mixed greens, cucumber, tomato and lemon.",
+        "price": 100,
+        "image": "https://via.placeholder.com/300?text=Green+Salad"
+      },
+      {
+        "name": "Boondi Raita",
+        "description": "Crispy boondi mixed with chilled curd and spices.",
+        "price": 100,
+        "image": "https://via.placeholder.com/300?text=Boondi+Raita"
+      },
+      {
+        "name": "Mix Veg Raita",
+        "description": "Curd with grated carrot, cucumber and onion.",
+        "price": 80,
+        "image": "https://via.placeholder.com/300?text=Mix+Veg+Raita"
+      },
+      {
+        "name": "Plain Curd",
+        "description": "Fresh homemade curd served chilled.",
+        "price": 50,
+        "image": "https://via.placeholder.com/300?text=Plain+Curd"
+      },
+      {
+        "name": "Masala Papad",
+        "description": "Crispy papad topped with onion, tomato and spices.",
+        "price": 45,
+        "image": "https://via.placeholder.com/300?text=Masala+Papad"
+      },
+      {
+        "name": "Roasted Papad",
+        "description": "Lightly roasted papad served hot.",
+        "price": 30,
+        "image": "https://via.placeholder.com/300?text=Roasted+Papad"
+      }
+    ],
+    "BEVERAGES": [
+      {
+        "name": "Mineral Water",
+        "description": "Bottled mineral water.",
+        "price": 20,
+        "image": "https://via.placeholder.com/300?text=Mineral+Water"
+      },
+      {
+        "name": "Fresh Lime Water",
+        "description": "Squeezed lime with chilled water.",
+        "price": 80,
+        "image": "https://via.placeholder.com/300?text=Fresh+Lime+Water"
+      },
+      {
+        "name": "Fresh Lime Soda",
+        "description": "Lime water with soda fizz.",
+        "price": 110,
+        "image": "https://via.placeholder.com/300?text=Fresh+Lime+Soda"
+      },
+      {
+        "name": "Virgin Mojito",
+        "description": "Mint, lime and soda — refreshing mocktail.",
+        "price": 120,
+        "image": "https://via.placeholder.com/300?text=Virgin+Mojito"
+      },
+      {
+        "name": "Buttermilk",
+        "description": "Traditional salted buttermilk.",
+        "price": 60,
+        "image": "https://via.placeholder.com/300?text=Buttermilk"
+      },
+      {
+        "name": "Lassi",
+        "description": "Creamy sweet or salted lassi.",
+        "price": 80,
+        "image": "https://via.placeholder.com/300?text=Lassi"
+      },
+      {
+        "name": "Cold Drink",
+        "description": "Assorted carbonated beverages.",
+        "price": 25,
+        "image": "https://via.placeholder.com/300?text=Cold+Drink"
+      },
+      {
+        "name": "Masala Chai",
+        "description": "Classic Indian spiced tea.",
+        "price": 40,
+        "image": "https://via.placeholder.com/300?text=Masala+Chai"
+      }
+    ],
+    "SOUPS": [
+      {
+        "name": "Veg Hot & Sour Soup",
+        "description": "Spicy and tangy vegetable soup.",
+        "price": 99,
+        "image": "https://via.placeholder.com/300?text=Hot+%26+Sour+Soup"
+      },
+      {
+        "name": "Veg Lemon Coriander Soup",
+        "description": "Light soup with lemon and coriander.",
+        "price": 100,
+        "image": "https://via.placeholder.com/300?text=Lemon+Coriander+Soup"
+      },
+      {
+        "name": "Veg Manchow Soup",
+        "description": "Thick manchow soup with veggies.",
+        "price": 100,
+        "image": "https://via.placeholder.com/300?text=Manchow+Soup"
+      },
+      {
+        "name": "Veg Noodle Soup",
+        "description": "Comforting soup with noodles and veggies.",
+        "price": 99,
+        "image": "https://via.placeholder.com/300?text=Noodle+Soup"
+      }
+    ],
+    "STARTERS": [
+      {
+        "name": "Cheese Corn Balls",
+        "description": "Crispy balls stuffed with corn and cheese.",
+        "price": 220,
+        "image": "https://via.placeholder.com/300?text=Cheese+Corn+Balls"
+      },
+      {
+        "name": "Potato Croquettes",
+        "description": "Mashed potato croquettes, deep fried.",
+        "price": 199,
+        "image": "https://via.placeholder.com/300?text=Potato+Croquettes"
+      },
+      {
+        "name": "Paneer Popcorn",
+        "description": "Spiced bite-sized paneer popped and tossed.",
+        "price": 250,
+        "image": "https://via.placeholder.com/300?text=Paneer+Popcorn"
+      },
+      {
+        "name": "Fish Finger",
+        "description": "Crispy battered fish strips.",
+        "price": 340,
+        "image": "https://via.placeholder.com/300?text=Fish+Finger"
+      },
+      {
+        "name": "Chicken Popcorn",
+        "description": "Crispy bite-sized chicken popcorn.",
+        "price": 299,
+        "image": "https://via.placeholder.com/300?text=Chicken+Popcorn"
+      },
+      {
+        "name": "Veg Manchurian Dry",
+        "description": "Tangy Indo-Chinese veg manchurian.",
+        "price": 199,
+        "image": "https://via.placeholder.com/300?text=Veg+Manchurian"
+      },
+      {
+        "name": "Chilli Potato",
+        "description": "Crispy potatoes tossed in chili sauce.",
+        "price": 199,
+        "image": "https://via.placeholder.com/300?text=Chilli+Potato"
+      },
+      {
+        "name": "Paneer 65",
+        "description": "Deep-fried spicy paneer starter.",
+        "price": 220,
+        "image": "https://via.placeholder.com/300?text=Paneer+65"
+      },
+      {
+        "name": "Paneer Chilli Dry",
+        "description": "Paneer tossed in chilli-garlic sauce.",
+        "price": 220,
+        "image": "https://via.placeholder.com/300?text=Paneer+Chilli"
+      },
+      {
+        "name": "Spaghetti Pasta",
+        "description": "Classic spaghetti with light sauce.",
+        "price": 260,
+        "image": "https://via.placeholder.com/300?text=Spaghetti+Pasta"
+      },
+      {
+        "name": "Arabiata Pasta",
+        "description": "Pasta in spicy tomato arabiata sauce.",
+        "price": 250,
+        "image": "https://via.placeholder.com/300?text=Arabiata+Pasta"
+      },
+      {
+        "name": "Cheese Chaska",
+        "description": "Cheesy starter with mild spices.",
+        "price": 250,
+        "image": "https://via.placeholder.com/300?text=Cheese+Chaska"
+      }
+    ],
+    "MAIN COURSE - VEG": [
+      {
+        "name": "Dal Tadka",
+        "description": "Yellow lentils tempered with spices.",
+        "price": 160,
+        "image": "https://via.placeholder.com/300?text=Dal+Tadka"
+      },
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese in rich tomato gravy.",
+        "price": 260,
+        "image": "https://via.placeholder.com/300?text=Paneer+Butter+Masala"
+      },
+      {
+        "name": "Shahi Paneer",
+        "description": "Creamy royal paneer curry.",
+        "price": 270,
+        "image": "https://via.placeholder.com/300?text=Shahi+Paneer"
+      },
+      {
+        "name": "Kadai Paneer",
+        "description": "Paneer cooked with bell peppers and spices.",
+        "price": 250,
+        "image": "https://via.placeholder.com/300?text=Kadai+Paneer"
+      },
+      {
+        "name": "Mix Vegetable",
+        "description": "Seasonal vegetables in light gravy.",
+        "price": 180,
+        "image": "https://via.placeholder.com/300?text=Mix+Vegetable"
+      },
+      {
+        "name": "Malai Kofta",
+        "description": "Vegetable dumplings in creamy gravy.",
+        "price": 280,
+        "image": "https://via.placeholder.com/300?text=Malai+Kofta"
+      },
+      {
+        "name": "Aloo Gobi",
+        "description": "Potato and cauliflower dry curry.",
+        "price": 150,
+        "image": "https://via.placeholder.com/300?text=Aloo+Gobi"
+      },
+      {
+        "name": "Bhindi Masala",
+        "description": "Okra cooked with onions and spices.",
+        "price": 160,
+        "image": "https://via.placeholder.com/300?text=Bhindi+Masala"
+      },
+      {
+        "name": "Chole Masala",
+        "description": "Spiced chickpea curry.",
+        "price": 170,
+        "image": "https://via.placeholder.com/300?text=Chole+Masala"
+      },
+      {
+        "name": "Rajma Masala",
+        "description": "Red kidney beans cooked in gravy.",
+        "price": 160,
+        "image": "https://via.placeholder.com/300?text=Rajma+Masala"
+      },
+      {
+        "name": "Paneer Lababdar",
+        "description": "Paneer in creamy tomato and butter gravy.",
+        "price": 270,
+        "image": "https://via.placeholder.com/300?text=Paneer+Lababdar"
+      },
+      {
+        "name": "Palak Paneer",
+        "description": "Paneer cooked in spinach gravy.",
+        "price": 240,
+        "image": "https://via.placeholder.com/300?text=Palak+Paneer"
+      },
+      {
+        "name": "Paneer Bhurji",
+        "description": "Scrambled paneer with spices.",
+        "price": 190,
+        "image": "https://via.placeholder.com/300?text=Paneer+Bhurji"
+      },
+      {
+        "name": "Matar Paneer",
+        "description": "Paneer with green peas in gravy.",
+        "price": 220,
+        "image": "https://via.placeholder.com/300?text=Matar+Paneer"
+      },
+      {
+        "name": "Veg Kofta Curry",
+        "description": "Veg koftas in rich gravy.",
+        "price": 250,
+        "image": "https://via.placeholder.com/300?text=Veg+Kofta+Curry"
+      },
+      {
+        "name": "Kadhi Pakora",
+        "description": "Yogurt based curry with gram flour pakoras.",
+        "price": 150,
+        "image": "https://via.placeholder.com/300?text=Kadhi+Pakora"
+      },
+      {
+        "name": "Baingan Bharta",
+        "description": "Smoky roasted aubergine mash with spices.",
+        "price": 170,
+        "image": "https://via.placeholder.com/300?text=Baingan+Bharta"
+      },
+      {
+        "name": "Aloo Methi",
+        "description": "Potato cooked with fenugreek leaves.",
+        "price": 150,
+        "image": "https://via.placeholder.com/300?text=Aloo+Methi"
+      },
+      {
+        "name": "Dum Aloo",
+        "description": "Baby potatoes slow-cooked in rich gravy.",
+        "price": 200,
+        "image": "https://via.placeholder.com/300?text=Dum+Aloo"
+      },
+      {
+        "name": "Navratan Korma",
+        "description": "Creamy mixed veg curry with nuts.",
+        "price": 280,
+        "image": "https://via.placeholder.com/300?text=Navratan+Korma"
+      }
+    ],
+    "MAIN COURSE - NON-VEG": [
+      {
+        "name": "Butter Chicken",
+        "description": "Creamy tomato-based chicken curry.",
+        "price": 320,
+        "image": "https://via.placeholder.com/300?text=Butter+Chicken"
+      },
+      {
+        "name": "Chicken Korma",
+        "description": "Mild creamy chicken curry with nuts.",
+        "price": 300,
+        "image": "https://via.placeholder.com/300?text=Chicken+Korma"
+      },
+      {
+        "name": "Rogan Josh",
+        "description": "Flavourful lamb curry from Kashmir.",
+        "price": 350,
+        "image": "https://via.placeholder.com/300?text=Rogan+Josh"
+      },
+      {
+        "name": "Mutton Curry",
+        "description": "Classic slow-cooked mutton in spices.",
+        "price": 360,
+        "image": "https://via.placeholder.com/300?text=Mutton+Curry"
+      },
+      {
+        "name": "Chicken Tikka Masala",
+        "description": "Grilled chicken pieces in spiced gravy.",
+        "price": 320,
+        "image": "https://via.placeholder.com/300?text=Chicken+Tikka+Masala"
+      },
+      {
+        "name": "Grilled Fish",
+        "description": "Seasoned fillet served with lemon.",
+        "price": 340,
+        "image": "https://via.placeholder.com/300?text=Grilled+Fish"
+      },
+      {
+        "name": "Prawn Curry",
+        "description": "Spicy prawn curry with coconut notes.",
+        "price": 380,
+        "image": "https://via.placeholder.com/300?text=Prawn+Curry"
+      },
+      {
+        "name": "Chicken Curry",
+        "description": "Homestyle chicken curry with spices.",
+        "price": 260,
+        "image": "https://via.placeholder.com/300?text=Chicken+Curry"
+      },
+      {
+        "name": "Egg Curry",
+        "description": "Hard-boiled eggs in spicy gravy.",
+        "price": 150,
+        "image": "https://via.placeholder.com/300?text=Egg+Curry"
+      },
+      {
+        "name": "Fish Masala",
+        "description": "Fish cooked in tangy masala.",
+        "price": 330,
+        "image": "https://via.placeholder.com/300?text=Fish+Masala"
+      },
+      {
+        "name": "Keema Matar",
+        "description": "Minced meat with green peas.",
+        "price": 280,
+        "image": "https://via.placeholder.com/300?text=Keema+Matar"
+      },
+      {
+        "name": "Mutton Biryani (single)",
+        "description": "Aromatic mutton biryani served with raita.",
+        "price": 340,
+        "image": "https://via.placeholder.com/300?text=Mutton+Biryani"
+      },
+      {
+        "name": "Chicken Biryani (single)",
+        "description": "Fragrant chicken biryani with spices.",
+        "price": 300,
+        "image": "https://via.placeholder.com/300?text=Chicken+Biryani"
+      },
+      {
+        "name": "Tandoori Chicken",
+        "description": "Half tandoori chicken marinated and grilled.",
+        "price": 380,
+        "image": "https://via.placeholder.com/300?text=Tandoori+Chicken"
+      },
+      {
+        "name": "Fish Fry",
+        "description": "Crispy fried fish with spicy coating.",
+        "price": 320,
+        "image": "https://via.placeholder.com/300?text=Fish+Fry"
+      }
+    ],
+    "INDIAN BREADS": [
+      {
+        "name": "Tandoori Roti",
+        "description": "Whole wheat flatbread baked in tandoor.",
+        "price": 20,
+        "image": "https://via.placeholder.com/300?text=Tandoori+Roti"
+      },
+      {
+        "name": "Butter Naan",
+        "description": "Soft naan brushed with butter.",
+        "price": 40,
+        "image": "https://via.placeholder.com/300?text=Butter+Naan"
+      },
+      {
+        "name": "Garlic Naan",
+        "description": "Naan topped with fresh garlic and butter.",
+        "price": 50,
+        "image": "https://via.placeholder.com/300?text=Garlic+Naan"
+      },
+      {
+        "name": "Laccha Paratha",
+        "description": "Layered flaky paratha.",
+        "price": 50,
+        "image": "https://via.placeholder.com/300?text=Laccha+Paratha"
+      },
+      {
+        "name": "Plain Paratha",
+        "description": "Soft pan-fried flatbread.",
+        "price": 35,
+        "image": "https://via.placeholder.com/300?text=Plain+Paratha"
+      },
+      {
+        "name": "Missi Roti",
+        "description": "Gram-flour mixed roti with spices.",
+        "price": 40,
+        "image": "https://via.placeholder.com/300?text=Missi+Roti"
+      },
+      {
+        "name": "Roomali Roti",
+        "description": "Thin, soft bread perfect with kebabs.",
+        "price": 30,
+        "image": "https://via.placeholder.com/300?text=Roomali+Roti"
+      },
+      {
+        "name": "Naan Basket (2pcs)",
+        "description": "Two assorted naans.",
+        "price": 85,
+        "image": "https://via.placeholder.com/300?text=Naan+Basket"
+      }
+    ],
+    "RICE & BIRYANI": [
+      {
+        "name": "Steamed Rice",
+        "description": "Simple fragrant steamed rice.",
+        "price": 90,
+        "image": "https://via.placeholder.com/300?text=Steamed+Rice"
+      },
+      {
+        "name": "Jeera Rice",
+        "description": "Cumin flavored aromatic rice.",
+        "price": 120,
+        "image": "https://via.placeholder.com/300?text=Jeera+Rice"
+      },
+      {
+        "name": "Veg Biryani (single)",
+        "description": "Spiced vegetable biryani with raita.",
+        "price": 220,
+        "image": "https://via.placeholder.com/300?text=Veg+Biryani"
+      },
+      {
+        "name": "Paneer Biryani (single)",
+        "description": "Biryani with marinated paneer pieces.",
+        "price": 250,
+        "image": "https://via.placeholder.com/300?text=Paneer+Biryani"
+      },
+      {
+        "name": "Egg Biryani (single)",
+        "description": "Layers of rice and spiced eggs.",
+        "price": 200,
+        "image": "https://via.placeholder.com/300?text=Egg+Biryani"
+      },
+      {
+        "name": "Pulao",
+        "description": "Mildly spiced vegetable pulao.",
+        "price": 140,
+        "image": "https://via.placeholder.com/300?text=Pulao"
+      },
+      {
+        "name": "Kashmiri Pulao",
+        "description": "Sweet and fragrant pulao with dry fruits.",
+        "price": 220,
+        "image": "https://via.placeholder.com/300?text=Kashmiri+Pulao"
+      },
+      {
+        "name": "Egg Fried Rice",
+        "description": "Quick fried rice with eggs and veggies.",
+        "price": 160,
+        "image": "https://via.placeholder.com/300?text=Egg+Fried+Rice"
+      }
+    ],
+    "CHINESE": [
+      {
+        "name": "Veg Fried Rice",
+        "description": "Wok-tossed rice with vegetables.",
+        "price": 150,
+        "image": "https://via.placeholder.com/300?text=Veg+Fried+Rice"
+      },
+      {
+        "name": "Chicken Fried Rice",
+        "description": "Fried rice with shredded chicken.",
+        "price": 190,
+        "image": "https://via.placeholder.com/300?text=Chicken+Fried+Rice"
+      },
+      {
+        "name": "Veg Noodles",
+        "description": "Stir-fried noodles with fresh vegetables.",
+        "price": 150,
+        "image": "https://via.placeholder.com/300?text=Veg+Noodles"
+      },
+      {
+        "name": "Chicken Noodles",
+        "description": "Noodles tossed with shredded chicken.",
+        "price": 190,
+        "image": "https://via.placeholder.com/300?text=Chicken+Noodles"
+      },
+      {
+        "name": "Sweet & Sour Chicken",
+        "description": "Classic sweet and sour style chicken.",
+        "price": 260,
+        "image": "https://via.placeholder.com/300?text=Sweet+%26+Sour+Chicken"
+      },
+      {
+        "name": "Chilli Paneer Gravy",
+        "description": "Paneer in spicy Indo-Chinese sauce.",
+        "price": 240,
+        "image": "https://via.placeholder.com/300?text=Chilli+Paneer+Gravy"
+      },
+      {
+        "name": "Veg Manchurian Gravy",
+        "description": "Veg manchurian served in rich gravy.",
+        "price": 220,
+        "image": "https://via.placeholder.com/300?text=Veg+Manchurian+Gravy"
+      }
+    ],
+    "SNACKS / QUICK BITES": [
+      {
+        "name": "Samosa (2 pcs)",
+        "description": "Crispy pastry stuffed with spiced potato.",
+        "price": 80,
+        "image": "https://via.placeholder.com/300?text=Samosa"
+      },
+      {
+        "name": "Kachori",
+        "description": "Deep fried pastry with filling.",
+        "price": 60,
+        "image": "https://via.placeholder.com/300?text=Kachori"
+      },
+      {
+        "name": "Pav Bhaji (single)",
+        "description": "Mashed vegetable curry with buttered pav.",
+        "price": 140,
+        "image": "https://via.placeholder.com/300?text=Pav+Bhaji"
+      },
+      {
+        "name": "Vada Pav",
+        "description": "Spicy potato patty in bun.",
+        "price": 70,
+        "image": "https://via.placeholder.com/300?text=Vada+Pav"
+      },
+      {
+        "name": "Mumbai Sandwich",
+        "description": "Toasted veg sandwich with chutneys.",
+        "price": 110,
+        "image": "https://via.placeholder.com/300?text=Mumbai+Sandwich"
+      },
+      {
+        "name": "Paneer Frankie",
+        "description": "Wrap filled with spiced paneer and chutney.",
+        "price": 150,
+        "image": "https://via.placeholder.com/300?text=Paneer+Frankie"
+      }
+    ],
+    "DESSERTS": [
+      {
+        "name": "Gulab Jamun (2 pcs)",
+        "description": "Classic syrupy milk dumplings.",
+        "price": 90,
+        "image": "https://via.placeholder.com/300?text=Gulab+Jamun"
+      },
+      {
+        "name": "Rasmalai (2 pcs)",
+        "description": "Soft cheese dumplings in sweet milk.",
+        "price": 140,
+        "image": "https://via.placeholder.com/300?text=Rasmalai"
+      },
+      {
+        "name": "Gajar Halwa",
+        "description": "Carrot pudding cooked with milk and ghee.",
+        "price": 120,
+        "image": "https://via.placeholder.com/300?text=Gajar+Halwa"
+      },
+      {
+        "name": "Ice Cream Scoop",
+        "description": "Single scoop — assorted flavors.",
+        "price": 60,
+        "image": "https://via.placeholder.com/300?text=Ice+Cream"
+      },
+      {
+        "name": "Kesari",
+        "description": "Saffron-flavored sweet semolina.",
+        "price": 110,
+        "image": "https://via.placeholder.com/300?text=Kesari"
+      },
+      {
+        "name": "Kheer",
+        "description": "Creamy rice pudding with cardamom.",
+        "price": 100,
+        "image": "https://via.placeholder.com/300?text=Kheer"
+      }
+    ],
+    "SPECIALS": []
+  },
+  "hindi": {
+    "सलाद और रायता": [
+      {
+        "name": "ग्रीन सलाद",
+        "description": "ताज़ी सब्ज़ियाँ—खीरा, टमाटर और नींबू।",
+        "price": 100,
+        "image": "https://via.placeholder.com/300?text=Green+Salad"
+      },
+      {
+        "name": "बूंदी रायता",
+        "description": "कुरकुरी बूंदी ठंडे दही में मिलाकर।",
+        "price": 100,
+        "image": "https://via.placeholder.com/300?text=Boondi+Raita"
+      },
+      {
+        "name": "मिक्स वेज रायता",
+        "description": "गाजर, खीरा और प्याज़ के साथ दही।",
+        "price": 80,
+        "image": "https://via.placeholder.com/300?text=Mix+Veg+Raita"
+      },
+      {
+        "name": "सादा दही",
+        "description": "ताज़ा घर का बना दही।",
+        "price": 50,
+        "image": "https://via.placeholder.com/300?text=Plain+Curd"
+      },
+      {
+        "name": "मसाला पापड़",
+        "description": "प्याज़, टमाटर और मसालों के साथ पापड़।",
+        "price": 45,
+        "image": "https://via.placeholder.com/300?text=Masala+Papad"
+      },
+      {
+        "name": "भुना हुआ पापड़",
+        "description": "हल्का भुना हुआ पापड़।",
+        "price": 30,
+        "image": "https://via.placeholder.com/300?text=Roasted+Papad"
+      }
+    ],
+    "पेय पदार्थ": [
+      {
+        "name": "मिनरल वाटर",
+        "description": "बोटल्ड मिनरल वॉटर।",
+        "price": 20,
+        "image": "https://via.placeholder.com/300?text=Mineral+Water"
+      },
+      {
+        "name": "फ्रेश लाइम वाटर",
+        "description": "ताज़ा नींबू पानी।",
+        "price": 80,
+        "image": "https://via.placeholder.com/300?text=Fresh+Lime+Water"
+      },
+      {
+        "name": "फ्रेश लाइम सोडा",
+        "description": "नींबू और सोडा के साथ।",
+        "price": 110,
+        "image": "https://via.placeholder.com/300?text=Fresh+Lime+Soda"
+      },
+      {
+        "name": "वर्जिन मोजिटो",
+        "description": "पुदीना, नींबू और सोडा।",
+        "price": 120,
+        "image": "https://via.placeholder.com/300?text=Virgin+Mojito"
+      },
+      {
+        "name": "छाछ",
+        "description": "पारंपरिक छाछ।",
+        "price": 60,
+        "image": "https://via.placeholder.com/300?text=Buttermilk"
+      },
+      {
+        "name": "लस्सी",
+        "description": "मलाईदार मीठी/नमकीन लस्सी।",
+        "price": 80,
+        "image": "https://via.placeholder.com/300?text=Lassi"
+      },
+      {
+        "name": "कोल्ड ड्रिंक",
+        "description": "असॉरटेड सॉफ्ट ड्रिंक्स।",
+        "price": 25,
+        "image": "https://via.placeholder.com/300?text=Cold+Drink"
+      },
+      {
+        "name": "मसाला चाय",
+        "description": "क्लासिक मसालेदार चाय।",
+        "price": 40,
+        "image": "https://via.placeholder.com/300?text=Masala+Chai"
+      }
+    ],
+    "सूप": [
+      {
+        "name": "वेज हॉट एंड सॉर सूप",
+        "description": "मसालेदार और खट्टा सब्ज़ी सूप।",
+        "price": 99,
+        "image": "https://via.placeholder.com/300?text=Hot+%26+Sour+Soup"
+      },
+      {
+        "name": "वेज लेमन कोरिएन्डर सूप",
+        "description": "नींबू और धनिया के साथ हल्का सूप।",
+        "price": 100,
+        "image": "https://via.placeholder.com/300?text=Lemon+Coriander+Soup"
+      },
+      {
+        "name": "वेज मंचाव सूप",
+        "description": "मोटी मंचाव सूप सब्ज़ियों के साथ।",
+        "price": 100,
+        "image": "https://via.placeholder.com/300?text=Manchow+Soup"
+      },
+      {
+        "name": "वेज नूडल सूप",
+        "description": "नूडल और सब्ज़ी वाला आरामदायक सूप।",
+        "price": 99,
+        "image": "https://via.placeholder.com/300?text=Noodle+Soup"
+      }
+    ],
+    "स्टार्टर्स": [
+      {
+        "name": "चीज़ कॉर्न बॉल्स",
+        "description": "कॉर्न और चीज़ भरकर कुरकुरे बॉल्स।",
+        "price": 220,
+        "image": "https://via.placeholder.com/300?text=Cheese+Corn+Balls"
+      },
+      {
+        "name": "पोटैटो क्रोकेट्स",
+        "description": "मैश किए आलू की क्रोकेट्स।",
+        "price": 199,
+        "image": "https://via.placeholder.com/300?text=Potato+Croquettes"
+      },
+      {
+        "name": "पनीर पॉपकॉर्न",
+        "description": "स्पाइसी पनीर पॉपकॉर्न।",
+        "price": 250,
+        "image": "https://via.placeholder.com/300?text=Paneer+Popcorn"
+      },
+      {
+        "name": "फिश फिंगर",
+        "description": "क्रिस्पी बैटर्ड फिश स्ट्रिप्स।",
+        "price": 340,
+        "image": "https://via.placeholder.com/300?text=Fish+Finger"
+      },
+      {
+        "name": "चिकन पॉपकॉर्न",
+        "description": "बाइट साइज चिकन पॉपकॉर्न।",
+        "price": 299,
+        "image": "https://via.placeholder.com/300?text=Chicken+Popcorn"
+      },
+      {
+        "name": "वेज मंचुरियन ड्राई",
+        "description": "टेंग और मसालेदार वेज मंचुरियन।",
+        "price": 199,
+        "image": "https://via.placeholder.com/300?text=Veg+Manchurian"
+      },
+      {
+        "name": "चिल्ली पोटैटो",
+        "description": "चटपटा चिली पोटैटो।",
+        "price": 199,
+        "image": "https://via.placeholder.com/300?text=Chilli+Potato"
+      },
+      {
+        "name": "पनीर 65",
+        "description": "मसालेदार डीप फ्राइड पनीर।",
+        "price": 220,
+        "image": "https://via.placeholder.com/300?text=Paneer+65"
+      },
+      {
+        "name": "पनीर चिली ड्राई",
+        "description": "चिली-गार्लिक सॉस में पनीर।",
+        "price": 220,
+        "image": "https://via.placeholder.com/300?text=Paneer+Chilli"
+      },
+      {
+        "name": "स्पेगेटी पास्ता",
+        "description": "लाइट सॉस के साथ स्पेगेटी।",
+        "price": 260,
+        "image": "https://via.placeholder.com/300?text=Spaghetti+Pasta"
+      },
+      {
+        "name": "अरबियाटा पास्ता",
+        "description": "स्पाइसी टोमेटो अरबियाटा पास्ता।",
+        "price": 250,
+        "image": "https://via.placeholder.com/300?text=Arabiata+Pasta"
+      },
+      {
+        "name": "चीज़ चस्का",
+        "description": "माइल्ड मसालों के साथ चीज़ी स्टार्टर्स।",
+        "price": 250,
+        "image": "https://via.placeholder.com/300?text=Cheese+Chaska"
+      }
+    ],
+    "मेन कोर्स - वेज": [
+      {
+        "name": "दाल तड़का",
+        "description": "तड़के वाली मसालेदार दाल।",
+        "price": 160,
+        "image": "https://via.placeholder.com/300?text=Dal+Tadka"
+      },
+      {
+        "name": "पनीर बटर मसाला",
+        "description": "रिच टोमेटो ग्रेवी में पनीर।",
+        "price": 260,
+        "image": "https://via.placeholder.com/300?text=Paneer+Butter+Masala"
+      },
+      {
+        "name": "शाही पनीर",
+        "description": "क्रीमी और रॉयल पनीर करी।",
+        "price": 270,
+        "image": "https://via.placeholder.com/300?text=Shahi+Paneer"
+      },
+      {
+        "name": "कड़ाई पनीर",
+        "description": "शिमला मिर्च और मसालों के साथ पनीर।",
+        "price": 250,
+        "image": "https://via.placeholder.com/300?text=Kadai+Paneer"
+      },
+      {
+        "name": "मिक्स वेज",
+        "description": "सीज़नल सब्ज़ियों की हल्की ग्रेवी।",
+        "price": 180,
+        "image": "https://via.placeholder.com/300?text=Mix+Vegetable"
+      },
+      {
+        "name": "मलाई कोफ्ता",
+        "description": "क्रीमी ग्रेवी में वेज कोफ्ते।",
+        "price": 280,
+        "image": "https://via.placeholder.com/300?text=Malai+Kofta"
+      },
+      {
+        "name": "आलू गोभी",
+        "description": "आलू और फूलगोभी की सूखी सब्ज़ी।",
+        "price": 150,
+        "image": "https://via.placeholder.com/300?text=Aloo+Gobi"
+      },
+      {
+        "name": "भिंडी मसाला",
+        "description": "प्याज़ और मसालों के साथ भिंडी।",
+        "price": 160,
+        "image": "https://via.placeholder.com/300?text=Bhindi+Masala"
+      },
+      {
+        "name": "छोले मसाला",
+        "description": "मसालेदार छोले करी।",
+        "price": 170,
+        "image": "https://via.placeholder.com/300?text=Chole+Masala"
+      },
+      {
+        "name": "राजमा मसाला",
+        "description": "लाल राजमा की स्वादिष्ट ग्रेवी।",
+        "price": 160,
+        "image": "https://via.placeholder.com/300?text=Rajma+Masala"
+      },
+      {
+        "name": "पनीर LABABDAR",
+        "description": "क्रीमी टोमेटो-बटर ग्रेवी में पनीर।",
+        "price": 270,
+        "image": "https://via.placeholder.com/300?text=Paneer+Lababdar"
+      },
+      {
+        "name": "पालक पनीर",
+        "description": "पालक की ग्रेवी में पनीर।",
+        "price": 240,
+        "image": "https://via.placeholder.com/300?text=Palak+Paneer"
+      },
+      {
+        "name": "पनीर भुर्जी",
+        "description": "मसालेदार स्क्रैम्बल्ड पनीर।",
+        "price": 190,
+        "image": "https://via.placeholder.com/300?text=Paneer+Bhurji"
+      },
+      {
+        "name": "मटर पनीर",
+        "description": "हरा मटर और पनीर की करी।",
+        "price": 220,
+        "image": "https://via.placeholder.com/300?text=Matar+Paneer"
+      },
+      {
+        "name": "वेज कोफ्ता करी",
+        "description": "रिच ग्रेवी में वेज कोफ्ते।",
+        "price": 250,
+        "image": "https://via.placeholder.com/300?text=Veg+Kofta+Curry"
+      },
+      {
+        "name": "कढ़ी पकोड़ा",
+        "description": "दही बेस्ड करी और पकोड़े।",
+        "price": 150,
+        "image": "https://via.placeholder.com/300?text=Kadhi+Pakora"
+      },
+      {
+        "name": "बैंगन भरता",
+        "description": "भुना बैंगन मसालों के साथ।",
+        "price": 170,
+        "image": "https://via.placeholder.com/300?text=Baingan+Bharta"
+      },
+      {
+        "name": "आलू मेथी",
+        "description": "मेथी के साथ आलू की सब्ज़ी।",
+        "price": 150,
+        "image": "https://via.placeholder.com/300?text=Aloo+Methi"
+      },
+      {
+        "name": "दम आलू",
+        "description": "धीमी आंच पर पके आलू रिच ग्रेवी में।",
+        "price": 200,
+        "image": "https://via.placeholder.com/300?text=Dum+Aloo"
+      },
+      {
+        "name": "नवरत्न कोरमा",
+        "description": "नट्स और क्रीम के साथ मिक्स वेज करी।",
+        "price": 280,
+        "image": "https://via.placeholder.com/300?text=Navratan+Korma"
+      }
+    ],
+    "मेन कोर्स - नॉन-वेज": [
+      {
+        "name": "बटर चिकन",
+        "description": "क्रीमी टोमेटो बेस चिकन करी।",
+        "price": 320,
+        "image": "https://via.placeholder.com/300?text=Butter+Chicken"
+      },
+      {
+        "name": "चिकन कोरमा",
+        "description": "नट्स और क्रीम के साथ मुलायम चिकन।",
+        "price": 300,
+        "image": "https://via.placeholder.com/300?text=Chicken+Korma"
+      },
+      {
+        "name": "रोगन जोश",
+        "description": "कश्मीरी स्टाइल स्वादिष्ट मटन करी।",
+        "price": 350,
+        "image": "https://via.placeholder.com/300?text=Rogan+Josh"
+      },
+      {
+        "name": "मटन करी",
+        "description": "धीमी आंच पर पकी मटन करी।",
+        "price": 360,
+        "image": "https://via.placeholder.com/300?text=Mutton+Curry"
+      },
+      {
+        "name": "चिकन टिक्का मसाला",
+        "description": "ग्रिल्ड चिकन पीस मसालेदार ग्रेवी में।",
+        "price": 320,
+        "image": "https://via.placeholder.com/300?text=Chicken+Tikka+Masala"
+      },
+      {
+        "name": "ग्रिल्ड फिश",
+        "description": "नींबू के साथ मसालेदार ग्रिल्ड फिश।",
+        "price": 340,
+        "image": "https://via.placeholder.com/300?text=Grilled+Fish"
+      },
+      {
+        "name": "प्रॉन करी",
+        "description": "नारियल के स्वाद के साथ प्रॉन करी।",
+        "price": 380,
+        "image": "https://via.placeholder.com/300?text=Prawn+Curry"
+      },
+      {
+        "name": "चिकन करी",
+        "description": "घरेलू स्टाइल चिकन करी।",
+        "price": 260,
+        "image": "https://via.placeholder.com/300?text=Chicken+Curry"
+      },
+      {
+        "name": "एग करी",
+        "description": "अंडे की करी मसालेदार ग्रेवी में।",
+        "price": 150,
+        "image": "https://via.placeholder.com/300?text=Egg+Curry"
+      },
+      {
+        "name": "फिश मसाला",
+        "description": "खट्टा मसालेदार फिश मसाला।",
+        "price": 330,
+        "image": "https://via.placeholder.com/300?text=Fish+Masala"
+      },
+      {
+        "name": "कीमा मटर",
+        "description": "कीमा और मटर की करी।",
+        "price": 280,
+        "image": "https://via.placeholder.com/300?text=Keema+Matar"
+      },
+      {
+        "name": "मटन बिरयानी (सिंगल)",
+        "description": "खुशबूदार मटन बिरयानी रायते के साथ।",
+        "price": 340,
+        "image": "https://via.placeholder.com/300?text=Mutton+Biryani"
+      },
+      {
+        "name": "चिकन बिरयानी (सिंगल)",
+        "description": "मसालों के साथ फ्रेग्रेंट चिकन बिरयानी।",
+        "price": 300,
+        "image": "https://via.placeholder.com/300?text=Chicken+Biryani"
+      },
+      {
+        "name": "तंदूरी चिकन",
+        "description": "मैरिनेटेड और ग्रिल्ड आधा तंदूरी चिकन।",
+        "price": 380,
+        "image": "https://via.placeholder.com/300?text=Tandoori+Chicken"
+      },
+      {
+        "name": "फिश फ्राय",
+        "description": "स्पाइसी कोटिंग के साथ क्रिस्पी फिश फ्राय।",
+        "price": 320,
+        "image": "https://via.placeholder.com/300?text=Fish+Fry"
+      }
+    ],
+    "इंडियन ब्रेड्स": [
+      {
+        "name": "तंदूरी रोटी",
+        "description": "तंदूर में बनाई हुई गेहूं की रोटी।",
+        "price": 20,
+        "image": "https://via.placeholder.com/300?text=Tandoori+Roti"
+      },
+      {
+        "name": "बटर नान",
+        "description": "बटर के साथ नरम नान।",
+        "price": 40,
+        "image": "https://via.placeholder.com/300?text=Butter+Naan"
+      },
+      {
+        "name": "गार्लिक नान",
+        "description": "ताजा लहसुन और बटर के साथ नान।",
+        "price": 50,
+        "image": "https://via.placeholder.com/300?text=Garlic+Naan"
+      },
+      {
+        "name": "लच्चा पराठा",
+        "description": "लेयर्ड फ्लेकी पराठा।",
+        "price": 50,
+        "image": "https://via.placeholder.com/300?text=Laccha+Paratha"
+      },
+      {
+        "name": "प्लेन पराठा",
+        "description": "नरम तवे पर पराठा।",
+        "price": 35,
+        "image": "https://via.placeholder.com/300?text=Plain+Paratha"
+      },
+      {
+        "name": "मिस्सी रोटी",
+        "description": "बेसन मिले हुई रोटी मसालों के साथ।",
+        "price": 40,
+        "image": "https://via.placeholder.com/300?text=Missi+Roti"
+      },
+      {
+        "name": "रूमाली रोटी",
+        "description": "पतला और नरम रोटी, कबाब के साथ परफेक्ट।",
+        "price": 30,
+        "image": "https://via.placeholder.com/300?text=Roomali+Roti"
+      },
+      {
+        "name": "नान बास्केट (2pcs)",
+        "description": "दो असॉर्टेड नान।",
+        "price": 85,
+        "image": "https://via.placeholder.com/300?text=Naan+Basket"
+      }
+    ],
+    "राइस और बिरयानी": [
+      {
+        "name": "स्टीम्ड राइस",
+        "description": "सुगंधित स्टीम्ड राइस।",
+        "price": 90,
+        "image": "https://via.placeholder.com/300?text=Steamed+Rice"
+      },
+      {
+        "name": "जीरा राइस",
+        "description": "जीरे का स्वाद लि
