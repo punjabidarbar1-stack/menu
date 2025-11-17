@@ -161,7 +161,7 @@
       menus.forEach(menu => menu.classList.remove('active'));
       document.querySelector('.menu[data-lang="english"]').classList.add('active');
 
-      fetch('./menu-data.json')
+      fetch('https://github.com/punjabidarbar1-stack/menu/blob/main/menu-data.json')
         .then(res => {
           if (!res.ok) throw new Error('menu-data.json not found');
           return res.json();
@@ -240,4 +240,5 @@
 
 </body>
 </html>
+
 
